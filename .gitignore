@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+jira_lite/tickets.json
+data/users.json
+.demo-remote/
+.ess-ai/reports/guardrail-log.md
+.claude/settings.local.json

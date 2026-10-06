@@ -1,0 +1,2 @@
+# The demo needs NOTHING beyond Python 3.10+ and git (standard library only).
+# Claude Code itself is installed separately (see DEMO_RUNBOOK.md).
